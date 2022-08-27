@@ -18,7 +18,15 @@
 
 #### My Current Stack
 
-<img height="48" src="img/python-original.svg" alt="python"> <img height="48" src="img/django-plain-wordmark.svg" alt="Django"> <img height="48" src="img/postgresql-original.svg" alt="postgress"> <img height="48" src="img/docker-original.svg" alt="Docker"> <img height="48" src="img/linux-original.svg" alt="linux"> <img height="48" src="img/nginx-original.svg" alt="nginx"> <img height="48" src="img/pytest-original.svg" alt="pytest"> <img height="48" src="img/git-original.svg" alt="git"> <img height="48" src="img/react-original.svg" alt="react">
+<img height="48" src="img/mulesoft-icon.png" alt="mulesoft">
+<img height="48" src="img/springio-icon.svg" alt="spring">
+<img height="48" src="img/java-original.svg" alt="java">
+<img height="48" src="img/javascript-original.svg" alt="javascript">
+<img height="48" src="img/mysql-original-wordmark.svg" alt="mysql">
+<img height="48" src="img/redis-original-wordmark.svg" alt="redis">
+<img height="48" src="img/git-scm-icon.svg" alt="git">
+<img height="48" src="img/jenkins-icon.svg" alt="jenkins">
+<img height="48" src="img/getpostman-icon.svg" alt="postman">
 
 #### Development Stuffs:
 
