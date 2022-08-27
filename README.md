@@ -8,13 +8,15 @@
 -->
 #### Bio
 
-- 🔭 I’m currently working on [Convert json to raml dataType](https://www.linkedin.com/in/jonathan-fiss-2818ba168) project
 <!-- - ⚙️ I use daily: `.py`, `.js`, `.yml`, `.sh` -->
 <!-- - 🌍 I'm mostly active within the **Python Community** -->
 - 🌱 Learning all about **Mulesoft**
 - 💬 Ping me about **Mulesoft**, **RestAPIs**
 <!-- - 📫 Reach me: [twitter.com/sudiptob2](https://twitter.com/sudiptob2) -->
 <!-- - 📝 Checkout my [Resume](files/resume.pdf). -->
+
+#### All of my projects
+- [Convert json to raml dataType](https://www.linkedin.com/in/jonathan-fiss-2818ba168)
 
 #### My Current Stack
 
