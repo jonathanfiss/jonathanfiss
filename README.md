@@ -8,7 +8,7 @@
 -->
 #### Bio
 
-- 🔭 I’m currently working on [Convert json to raml dataType](https://www.linkedin.com/in/jonathan-fiss-2818ba168)
+- 🔭 I’m currently working on [Convert json to raml dataType](https://www.linkedin.com/in/jonathan-fiss-2818ba168) project
 <!-- - ⚙️ I use daily: `.py`, `.js`, `.yml`, `.sh` -->
 <!-- - 🌍 I'm mostly active within the **Python Community** -->
 - 🌱 Learning all about **Mulesoft**
@@ -18,23 +18,15 @@
 
 #### My Current Stack
 
-<img height="48" src="img/mulesoft-icon.png" alt="mulesoft">
-<img height="48" src="img/springio-icon.svg" alt="spring">
-<img height="48" src="img/java-original.svg" alt="java">
-<img height="48" src="img/javascript-original.svg" alt="javascript">
-<img height="48" src="img/mysql-original-wordmark.svg" alt="mysql">
-<img height="48" src="img/redis-original-wordmark.svg" alt="redis">
-<img height="48" src="img/git-scm-icon.svg" alt="git">
-<img height="48" src="img/jenkins-icon.svg" alt="jenkins">
-<img height="48" src="img/getpostman-icon.svg" alt="postman">
+<img height="48" src="img/mulesoft-icon.png" alt="mulesoft"> <img height="48" src="img/springio-icon.svg" alt="spring"><img height="48" src="img/java-original.svg" alt="java"><img height="48" src="img/javascript-original.svg" alt="javascript"> <img height="48" src="img/mysql-original-wordmark.svg" alt="mysql"><img height="48" src="img/redis-original-wordmark.svg" alt="redis"><img height="48" src="img/git-scm-icon.svg" alt="git"><img height="48" src="img/jenkins-icon.svg" alt="jenkins"><img height="48" src="img/getpostman-icon.svg" alt="postman">
 
 #### Development Stuffs:
 
 <b>⚡ Github Stats</b>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathanfiss&show_icons=true&locale=en&layout=compact" alt="jonathanfiss" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonathanfiss&show_icons=true&locale=en" alt="jonathanfiss" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonathanfiss&theme=default" alt="jonathanfiss" /></p>
+<p><img max-height="120px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathanfiss&show_icons=true&locale=en&layout=compact" alt="jonathanfiss" /></p>
+<p>&nbsp;<img max-height="120px" align="center" src="https://github-readme-stats.vercel.app/api?username=jonathanfiss&show_icons=true&locale=en" alt="jonathanfiss" /></p>
+<p><img max-height="120px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonathanfiss&theme=default" alt="jonathanfiss" /></p>
 <!-- #### Recent Activity
 
 <p><b> &#9749; Latest Medium Blogs</b></p>
