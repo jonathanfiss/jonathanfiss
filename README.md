@@ -10,7 +10,7 @@
 
 <!-- - ⚙️ I use daily: `.py`, `.js`, `.yml`, `.sh` -->
 <!-- - 🌍 I'm mostly active within the **Python Community** -->
-- 🌱 Learning all about **Mulesoft**
+- 🌱 Learning all about **Mulesoft, Architecture, Integration**
 - 💬 Ping me about **Mulesoft**, **RestAPIs**
 <!-- - 📫 Reach me: [twitter.com/sudiptob2](https://twitter.com/sudiptob2) -->
 <!-- - 📝 Checkout my [Resume](files/resume.pdf). -->
@@ -26,9 +26,7 @@
 
 <b>⚡ Github Stats</b>
 
-<p><img max-height="120px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathanfiss&show_icons=true&locale=en&layout=compact" alt="jonathanfiss" /></p>
-<p>&nbsp;<img max-height="120px" align="center" src="https://github-readme-stats.vercel.app/api?username=jonathanfiss&show_icons=true&locale=en" alt="jonathanfiss" /></p>
-<p><img max-height="120px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonathanfiss&theme=default" alt="jonathanfiss" /></p>
+<p><img height="120px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathanfiss&show_icons=true&locale=en&layout=compact" alt="jonathanfiss" />   <img height="120px" align="center" src="https://github-readme-stats.vercel.app/api?username=jonathanfiss&show_icons=true&locale=en" alt="jonathanfiss" />   <img height="120px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonathanfiss&theme=default" alt="jonathanfiss" /></p>
 <!-- #### Recent Activity
 
 <p><b> &#9749; Latest Medium Blogs</b></p>
