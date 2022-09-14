@@ -16,7 +16,7 @@
 <!-- - 📝 Checkout my [Resume](files/resume.pdf). -->
 
 #### All of my projects
-- [Convert json to raml dataType](https://www.linkedin.com/in/jonathan-fiss-2818ba168)
+- [Convert json to raml dataType](https://jonathanfiss.github.io/convert-json-to-raml-datatype/)
 
 #### My Current Stack
 
