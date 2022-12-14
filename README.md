@@ -18,7 +18,7 @@
 #### All of my projects
 - [Convert json to raml dataType](https://jonathanfiss.github.io/convert-json-to-raml-datatype/)
 - [Convert json to table for field description](https://jonathanfiss.github.io/convert-json-to-table-for-field-description/)
-- [Biblioteca de calendário de feriados Brasileiros DataWeave](https://github.com/jonathanfiss/brazilian-holiday-calendar-library-dw)
+- [DataWeave Brazilian Public Holiday Calendar Library](https://github.com/jonathanfiss/brazilian-holiday-calendar-library-dw)
 
 #### My Current Stack
 
