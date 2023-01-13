@@ -25,11 +25,11 @@
 
 <img height="48" src="img/mulesoft-icon.png" alt="mulesoft"> <img height="48" src="img/springio-icon.svg" alt="spring"><img height="48" src="img/java-original.svg" alt="java"><img height="48" src="img/javascript-original.svg" alt="javascript"> <img height="48" src="img/mysql-original-wordmark.svg" alt="mysql"><img height="48" src="img/redis-original-wordmark.svg" alt="redis"><img height="48" src="img/git-scm-icon.svg" alt="git"><img height="48" src="img/jenkins-icon.svg" alt="jenkins"><img height="48" src="img/getpostman-icon.svg" alt="postman">
 
-#### Development Stuffs:
+<!-- #### Development Stuffs:
 
 <b>⚡ Github Stats</b>
 
-<p><img height="120px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathanfiss&show_icons=true&locale=en&layout=compact" alt="jonathanfiss" />   <img height="120px" align="center" src="https://github-readme-stats.vercel.app/api?username=jonathanfiss&show_icons=true&locale=en" alt="jonathanfiss" />   <img height="120px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonathanfiss&theme=default" alt="jonathanfiss" /></p>
+<p><img height="120px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathanfiss&show_icons=true&locale=en&layout=compact" alt="jonathanfiss" />   <img height="120px" align="center" src="https://github-readme-stats.vercel.app/api?username=jonathanfiss&show_icons=true&locale=en" alt="jonathanfiss" />   <img height="120px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonathanfiss&theme=default" alt="jonathanfiss" /></p> -->
 <!-- #### Recent Activity
 
 <p><b> &#9749; Latest Medium Blogs</b></p>
