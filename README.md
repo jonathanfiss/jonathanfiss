@@ -16,10 +16,17 @@
 <!-- - 📝 Checkout my [Resume](files/resume.pdf). -->
 
 #### All of my projects
-- [Convert json to raml dataType](https://jonathanfiss.github.io/convert-json-to-raml-datatype/)
-- [Convert json to table for field description](https://jonathanfiss.github.io/convert-json-to-table-for-field-description/)
-- [DataWeave Brazilian Public Holiday Calendar Library](https://github.com/jonathanfiss/brazilian-holiday-calendar-library-dw)
-- [Dataweve Scripts](https://github.com/jonathanfiss/dataweave-scripts)
+- Tools
+  - [Convert json to raml dataType](https://jonathanfiss.github.io/convert-json-to-raml-datatype/)
+  - [Convert json to table for field description](https://jonathanfiss.github.io/convert-json-to-table-for-field-description/)
+- Mulesoft
+  - RAML
+    - [API Specification Template](https://github.com/jonathanfiss/api-specification-raml)
+    - [Common Fragment](https://github.com/jonathanfiss/common-raml-fragment)
+    - [Securities Fragment](https://github.com/jonathanfiss/securities-raml-fragment)
+  - Dataweave
+    - [DataWeave Brazilian Public Holiday Calendar Library](https://github.com/jonathanfiss/brazilian-holiday-calendar-library-dw)
+    - [Dataweve Scripts](https://github.com/jonathanfiss/dataweave-scripts)
 
 #### My Current Stack
 
