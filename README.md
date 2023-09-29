@@ -30,7 +30,7 @@
 
 #### My Current Stack
 
-<img height="48" src="img/mulesoft-icon.png" alt="mulesoft"> <img height="48" src="img/springio-icon.svg" alt="spring"><img height="48" src="img/java-original.svg" alt="java"><img height="48" src="img/javascript-original.svg" alt="javascript"> <img height="48" src="img/mysql-original-wordmark.svg" alt="mysql"><img height="48" src="img/redis-original-wordmark.svg" alt="redis"><img height="48" src="img/git-scm-icon.svg" alt="git"><img height="48" src="img/jenkins-icon.svg" alt="jenkins"><img height="48" src="img/getpostman-icon.svg" alt="postman">
+<img height="48" src="img/mulesoft-icon.png" alt="mulesoft"><img height="48" src="img/raml.png" alt="raml"><img height="48" src="img/springio-icon.svg" alt="spring"><img height="48" src="img/java-original.svg" alt="java"><img height="48" src="img/javascript-original.svg" alt="javascript"> <img height="48" src="img/mysql-original-wordmark.svg" alt="mysql"><img height="48" src="img/redis-original-wordmark.svg" alt="redis"><img height="48" src="img/git-scm-icon.svg" alt="git"><img height="48" src="img/jenkins-icon.svg" alt="jenkins">
 
 <!-- #### Development Stuffs:
 
