@@ -26,6 +26,7 @@
     - [Securities Fragment](https://github.com/jonathanfiss/securities-raml-fragment)
   - Dataweave
     - [DataWeave Brazilian Public Holiday Calendar Library](https://github.com/jonathanfiss/brazilian-holiday-calendar-library-dw)
+    - [DataWeave Brazilian Document Validator Library](https://github.com/jonathanfiss/brazilian-document-validator-library-dw)
     - [Dataweve Scripts](https://github.com/jonathanfiss/dataweave-scripts)
 
 #### My Current Stack
