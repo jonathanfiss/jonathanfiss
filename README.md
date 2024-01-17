@@ -28,6 +28,8 @@
     - [DataWeave Brazilian Public Holiday Calendar Library](https://github.com/jonathanfiss/brazilian-holiday-calendar-library-dw)
     - [DataWeave Brazilian Document Validator Library](https://github.com/jonathanfiss/brazilian-document-validator-library-dw)
     - [Dataweve Scripts](https://github.com/jonathanfiss/dataweave-scripts)
+  - Projects
+    - [Connection pooling with hikari-lib and Oracle-db](https://github.com/jonathanfiss/connection-pooling-with-hikari-lib-and-oracle-db) 
 
 #### My Current Stack
 
