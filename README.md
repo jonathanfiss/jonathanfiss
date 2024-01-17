@@ -24,6 +24,7 @@
     - [API Specification Template](https://github.com/jonathanfiss/api-specification-raml)
     - [Common Fragment](https://github.com/jonathanfiss/common-raml-fragment)
     - [Securities Fragment](https://github.com/jonathanfiss/securities-raml-fragment)
+    - [Domain Fragment RAML](https://github.com/jonathanfiss/domain-raml-fragment)
   - Dataweave
     - [DataWeave Brazilian Public Holiday Calendar Library](https://github.com/jonathanfiss/brazilian-holiday-calendar-library-dw)
     - [DataWeave Brazilian Document Validator Library](https://github.com/jonathanfiss/brazilian-document-validator-library-dw)
